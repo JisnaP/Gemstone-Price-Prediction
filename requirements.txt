@@ -1,0 +1,12 @@
+pandas
+scikit_learn
+numpy
+seaborn
+ipykernel
+flask
+mlflow
+dvc
+apache-airflow
+
+
+-e .
