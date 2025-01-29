@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jisna/Downloads/Gemstone-Price-Prediction/mlruns/0/2758eb00581a4183ab149df60e4f455b/artifacts
+end_time: 1738176679263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2758eb00581a4183ab149df60e4f455b
+run_name: intelligent-worm-362
+run_uuid: 2758eb00581a4183ab149df60e4f455b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738176679158
+status: 4
+tags: []
+user_id: jisna

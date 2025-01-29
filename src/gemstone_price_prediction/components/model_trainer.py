@@ -66,5 +66,5 @@ class ModelTrainer:
             logging.info('Exception occured at Model Training')
             raise customexception(e,sys)
 
-        
+   
     
